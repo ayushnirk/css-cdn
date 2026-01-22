@@ -741,7 +741,7 @@
 
 .footer-section {
     background-color: #0f0a1e;
-    background-image: url(../img/shape/Footer.png);
+    background-image: url(./img/Footer.png);
     background-position: bottom center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -764,3 +764,4 @@
         transform: translateY(0);
     }
 }
+
